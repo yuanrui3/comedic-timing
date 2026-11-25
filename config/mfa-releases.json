@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "acoustic-mandarin_mfa-v2.0.0a",
+    "assets": [
+      {
+        "name": "mandarin_mfa.zip",
+        "url": "https://github.com/MontrealCorpusTools/mfa-models/releases/download/acoustic-mandarin_mfa-v2.0.0a/mandarin_mfa.zip",
+        "size": 92275957
+      }
+    ]
+  },
+  {
+    "tag": "dictionary-mandarin_china_mfa-v2.0.0",
+    "assets": [
+      {
+        "name": "mandarin_china_mfa.dict",
+        "url": "https://github.com/MontrealCorpusTools/mfa-models/releases/download/dictionary-mandarin_china_mfa-v2.0.0/mandarin_china_mfa.dict",
+        "size": 5990783
+      }
+    ]
+  }
+]

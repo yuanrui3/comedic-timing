@@ -1,0 +1,21 @@
+{
+  "created_utc": "2026-11-18T22:34:58.177809+00:00",
+  "python": "3.12.16",
+  "numpy": "2.2.6",
+  "scipy": "1.16.3",
+  "matplotlib": "3.10.7",
+  "source_sha256": "67c6a7d2f134b0ab700a5395df53510e500fe8e8123e47bf1201e84b76171464",
+  "plan_sha256": "8729ccd8e7db8a8bc0edf6af1b2d8c9e579ec1ba64a6927ae2913f4db77adc2b",
+  "outputs": {
+    "mathematical-audit.png": "ad37600c8cf21bc5e8ec8a9fc25fc780cbade38aa9dc30a4c9d9c966ae6c461a",
+    "mathematical-audit.svg": "b953c52a888590919814777b12ea96072ac991d08f37bf570fa7b6d67b858e6c",
+    "mathematical_audit.py": "67c6a7d2f134b0ab700a5395df53510e500fe8e8123e47bf1201e84b76171464",
+    "plan.md": "8729ccd8e7db8a8bc0edf6af1b2d8c9e579ec1ba64a6927ae2913f4db77adc2b",
+    "summary.json": "c58490dff829ec6da199bf87995b0ff86d8e10be15892f2abbdc93c05c4fd04a"
+  },
+  "no_audio_or_human_response_inputs": true,
+  "protected_files_read_only_for_integrity_hashing": [
+    "runs/corrected-pauses-v1/metrics.json",
+    "evaluation/human-practice-v1/START.html"
+  ]
+}

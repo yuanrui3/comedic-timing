@@ -1,0 +1,61 @@
+# Audio, video, model weights and local runtime artifacts never belong in Git.
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.mp4
+*.webm
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.bin
+.venv/
+.venv-vad/
+.runtime/
+.cache/
+.mc/
+models/
+data/audio/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.partial
+docs/sources/
+# Standalone practice pages embed original audio. Owner exports stay local too.
+evaluation/human-practice-v1/START.html
+runs/human-practice-v1/QA.html
+runs/human-practice-v1/build-archive/
+evaluation/**/responses/
+mandarin-practice-*.json
+SOFTWARE-QA-mandarin-practice-*.json
+
+# Public source release: local experimental records and private evaluation keys.
+# Preserve these on disk; only the fully synthetic math audit is versioned.
+/runs/*
+!/runs/mathematical-audit-v1/
+**/analyst-key.json
+**/*private-key*
+evaluation/**/START.html
+evaluation/**/QA.html
+evaluation/**/exports/
+evaluation/**/answers/
+evaluation/**/annotations/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local settings and credentials.
+.agents/
+.codex/
+.aws/
+.ssh/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

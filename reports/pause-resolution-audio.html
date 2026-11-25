@@ -1,0 +1,11 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Pause measurement investigation</title>
+<style>body{font:17px system-ui;max-width:1050px;margin:40px auto;padding:0 24px;color:#172638}img{max-width:100%}audio{width:100%;max-width:500px}article{padding:24px 0;border-top:1px solid #ccd5dd}.note{padding:18px;background:#fff2dc}small{color:#536478}</style>
+<h1>Pause measurement investigation</h1><p class="note">The CTC emission-gap bug is fixed. Residual natural-speech disagreement remains; these are exploratory estimates, not validated humor findings. AI-generated stock voices only; human annotation deferred.</p>
+<img src="figures/pause-resolution/before-after.png" alt="Comparison of old and new measurements and recovery on known gaps">
+<article><h2>zh001_zf_001_joke</h2><audio controls preload="none" src="../data/audio/kokoro-diagnostic-v1/zh001_zf_001_joke.wav"></audio>
+<p>CTC emission gap: 455 ms (not silence). Phonetic silence: 100 ms. Legacy RMS: 240 ms.</p>
+<img src="figures/pause-resolution/zh001_zf_001_joke.png" alt="Automatically estimated intervals for zh001_zf_001_joke"></article>
+<article><h2>zh009_zm_010_joke</h2><audio controls preload="none" src="../data/audio/kokoro-diagnostic-v1/zh009_zm_010_joke.wav"></audio>
+<p>CTC emission gap: 375 ms (not silence). Phonetic silence: 70 ms. Legacy RMS: 10 ms.</p>
+<img src="figures/pause-resolution/zh009_zm_010_joke.png" alt="Automatically estimated intervals for zh009_zm_010_joke"></article>
+</html>

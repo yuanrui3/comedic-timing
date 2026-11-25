@@ -1,0 +1,6 @@
+uses_speaker_adaptation: false
+fine_tune: false
+use_phone_model: false
+beam: 100
+retry_beam: 400
+dither: 0.0

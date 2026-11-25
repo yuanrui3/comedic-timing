@@ -1,0 +1,8 @@
+uses_speaker_adaptation: false
+fine_tune: false
+use_phone_model: false
+beam: 100
+retry_beam: 400
+# Transcripts are already exactly tokenized against the pinned dictionary.
+# Disable language-specific re-tokenization; acoustic model stays Mandarin.
+language: unknown

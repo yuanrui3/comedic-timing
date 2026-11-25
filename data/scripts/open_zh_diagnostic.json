@@ -1,0 +1,202 @@
+[
+  {
+    "id": "zh001",
+    "language": "zh",
+    "source_title": "請神",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#請神",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "一个吝啬鬼请道士请神，问他为什么只请远方的神。道士说，",
+    "joke": "附近的神知道你小气都不肯来。",
+    "control": "远方的神正好有空可以请过来。",
+    "ending_han_count": 13,
+    "reduced": {
+      "setup": "一个吝啬鬼请道士请神，问他为什么只请远方的神。道士说，",
+      "joke": "附近的神知道你小气都不肯来。",
+      "control": "远方的神正好有空可以请过来。"
+    }
+  },
+  {
+    "id": "zh002",
+    "language": "zh",
+    "source_title": "兄弟種田",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#兄弟種田",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "兄弟分庄稼，哥哥要上半截。弟弟说好，明年换我拿上半截。哥哥说，",
+    "joke": "那我明年就改种芋头。",
+    "control": "那咱明年就交换一下。",
+    "ending_han_count": 9,
+    "reduced": {
+      "setup": "兄弟分庄稼，哥哥要上半截。弟弟说好，明年换我拿上半截。哥哥说，",
+      "joke": "那我明年就改种芋头。",
+      "control": "那咱明年就交换一下。"
+    }
+  },
+  {
+    "id": "zh003",
+    "language": "zh",
+    "source_title": "合伙做酒",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#合伙做酒",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "两人合伙酿酒，一个出米，一个出水。出水的说我绝不占你便宜，",
+    "joke": "酒好了只要还我那些水。",
+    "control": "酒好了咱们按成本分配。",
+    "ending_han_count": 10,
+    "reduced": {
+      "setup": "两人合伙酿酒，一个出米，一个出水。出水的说我绝不占你便宜，",
+      "joke": "酒好了只要还我那些水。",
+      "control": "酒好了咱们按成本分配。"
+    }
+  },
+  {
+    "id": "zh004",
+    "language": "zh",
+    "source_title": "許日子",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#許日子",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "仆人说我家主人下辈子才会请客。吝啬的主人听见就骂，",
+    "joke": "谁让你随便定下日子的。",
+    "control": "谁让你随便议论主人的。",
+    "ending_han_count": 10,
+    "reduced": {
+      "setup": "仆人说我家主人下辈子才会请客。吝啬的主人听见就骂，",
+      "joke": "谁让你随便定下日子的。",
+      "control": "谁让你随便议论主人的。"
+    }
+  },
+  {
+    "id": "zh005",
+    "language": "zh",
+    "source_title": "攜燈",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#攜燈",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "客人喝了一夜的酒，天亮了仆人来接。他怪仆人没带灯，",
+    "joke": "再喝一会儿天就又黑了。",
+    "control": "回家路上有段路特别暗。",
+    "ending_han_count": 10,
+    "reduced": {
+      "setup": "客人喝了一夜的酒，天亮了仆人来接。他怪仆人没带灯，",
+      "joke": "再喝一会儿天就又黑了。",
+      "control": "回家路上有段路特别暗。"
+    }
+  },
+  {
+    "id": "zh006",
+    "language": "zh",
+    "source_title": "不留飯",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#不留飯",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "客人坐到中午，主人不留饭。听见鸡叫，主人说这鸡报时不准。客人说，",
+    "joke": "我的肚子报时可准得很。",
+    "control": "这只公鸡今天叫得真早。",
+    "ending_han_count": 10,
+    "reduced": {
+      "setup": "客人坐到中午，主人不留饭。听见鸡叫，主人说这鸡报时不准。客人说，",
+      "joke": "我的肚子报时可准得很。",
+      "control": "这只公鸡今天叫得真早。"
+    }
+  },
+  {
+    "id": "zh007",
+    "language": "zh",
+    "source_title": "下飯",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#下飯",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "父亲让儿子看着墙上的咸鱼下饭。弟弟告状，说哥哥多看了一眼。父亲说，",
+    "joke": "那还不得把他给咸死了。",
+    "control": "那就让他少吃一口米饭。",
+    "ending_han_count": 10,
+    "reduced": {
+      "setup": "父亲让儿子看着墙上的咸鱼下饭。弟弟告状，说哥哥多看了一眼。父亲说，",
+      "joke": "那还不得把他给咸死了。",
+      "control": "那就让他少吃一口米饭。"
+    }
+  },
+  {
+    "id": "zh008",
+    "language": "zh",
+    "source_title": "蘸酒",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#蘸酒",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "吝啬的父亲只许用筷子蘸酒喝。儿子连蘸两下，父亲责备他说，",
+    "joke": "你怎么喝得这么着急啊。",
+    "control": "你怎么不把筷子放下啊。",
+    "ending_han_count": 10,
+    "reduced": {
+      "setup": "吝啬的父亲只许用筷子蘸酒喝。儿子连蘸两下，父亲责备他说，",
+      "joke": "你怎么喝得这么着急啊。",
+      "control": "你怎么不把筷子放下啊。"
+    }
+  },
+  {
+    "id": "zh009",
+    "language": "zh",
+    "source_title": "夢美酒",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#夢美酒",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "有人梦见得到一壶好酒，正想温热了喝，却被叫醒。他后悔地说，",
+    "joke": "早知道就该喝凉的了。",
+    "control": "早知道就该早点睡了。",
+    "ending_han_count": 9,
+    "reduced": {
+      "setup": "有人梦见得到一壶好酒，正想温热了喝，却被叫醒。他后悔地说，",
+      "joke": "早知道就该喝凉的了。",
+      "control": "早知道就该早点睡了。"
+    }
+  },
+  {
+    "id": "zh010",
+    "language": "zh",
+    "source_title": "借水",
+    "source_url": "https://zh.wikisource.org/w/index.php?title=笑林廣記/貪吝部&oldid=2472153#借水",
+    "source_license": "Public domain historical text; Wikisource PD-old notice",
+    "source_author": "遊戲主人 (traditional attribution), 笑林廣記",
+    "adaptation": "New AI-authored simplified-Chinese retelling; not a verbatim historical quotation. Control newly generated for this study.",
+    "annotation_status": "provisional_agent_split_human_review_deferred",
+    "manipulation_status": "unscored",
+    "setup": "客人没分到筷子，便向主人要一碗水。主人问拿来做什么，客人说，",
+    "joke": "把手洗净好用手指夹菜。",
+    "control": "刚才走路口渴想喝点水。",
+    "ending_han_count": 10,
+    "reduced": {
+      "setup": "客人没分到筷子，便向主人要一碗水。主人问拿来做什么，客人说，",
+      "joke": "把手洗净好用手指夹菜。",
+      "control": "刚才走路口渴想喝点水。"
+    }
+  }
+]

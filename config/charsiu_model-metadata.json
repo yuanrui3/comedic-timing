@@ -1,0 +1,48 @@
+{
+  "_id": "621ffdc136468d709f179f62",
+  "id": "charsiu/zh_xlsr_fc_10ms",
+  "private": false,
+  "library_name": "transformers",
+  "tags": [
+    "transformers",
+    "pytorch",
+    "wav2vec2",
+    "endpoints_compatible",
+    "region:us"
+  ],
+  "downloads": 1382,
+  "likes": 2,
+  "modelId": "charsiu/zh_xlsr_fc_10ms",
+  "author": "charsiu",
+  "sha": "2d274d10cce1dd66818c0706abbc4cc20d4ef710",
+  "lastModified": "2021-12-16T03:45:24.000Z",
+  "gated": false,
+  "disabled": false,
+  "config": {
+    "architectures": [
+      "Wav2Vec2ForFrameClassification"
+    ],
+    "model_type": "wav2vec2"
+  },
+  "transformersInfo": {
+    "auto_model": "Wav2Vec2ForFrameClassification",
+    "processor": "AutoProcessor"
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes"
+    },
+    {
+      "rfilename": "config.json"
+    },
+    {
+      "rfilename": "pytorch_model.bin"
+    },
+    {
+      "rfilename": "trainer_state.json"
+    }
+  ],
+  "spaces": [],
+  "createdAt": "2022-03-02T23:29:05.000Z",
+  "usedStorage": 2525453121
+}

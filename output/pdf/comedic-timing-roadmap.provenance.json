@@ -1,0 +1,16 @@
+{
+  "as_of_local_date": "2026-11-15",
+  "timezone": "America/Indianapolis",
+  "format": "A3 portrait, vector PDF",
+  "inputs_sha256": {
+    "PLAN.md": "144e14229305e1e27d2c0ed6400d3272a807d45d172498267392cf2d140b9c44",
+    "reports/second-aligner-investigation.md": "61bcab5944c7bf06599051c92c31dea0f55d43070c65fbf72d8cbdb46f147082",
+    "runs/second-aligner-investigation-v1/summary.json": "cd02f080eba68b4e40c4758853590473d74f7108610ce43320696aaf874b0814",
+    "runs/second-aligner-investigation-v1/verification.json": "6b0617ab05789bb32b58c2de9b6765186ed8c7463aa2cb30a74cf12d98770563"
+  },
+  "builder_sha256": "4b4ad4319ecc1f9af514184d140de962f53d755acded9a26d9aaa4fb946b681e",
+  "pdf_sha256": "14859318287b59efa21c047e7a0ff72835b7bfb69aca7e64a5220b7e3c9d042e",
+  "pages": 1,
+  "text_checked": true,
+  "poster_role": "Project status and proposed roadmap; no new scientific experiments or gate acceptance."
+}

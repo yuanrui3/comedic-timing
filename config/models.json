@@ -1,0 +1,32 @@
+{
+  "kokoro_zh": {
+    "repo": "hexgrad/Kokoro-82M-v1.1-zh",
+    "revision": "01e7505bd6a7a2ac4975463114c3a7650a9f7218",
+    "license": "Apache-2.0",
+    "files": ["README.md", "config.json", "kokoro-v1_1-zh.pth", "voices/zf_001.pt", "voices/zm_010.pt"]
+  },
+  "align_zh": {
+    "repo": "jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cn",
+    "revision": "99ccb2737be22b8bb50dcfcc39ad4d567fb90cfd",
+    "license": "Apache-2.0",
+    "files": ["README.md", "config.json", "preprocessor_config.json", "special_tokens_map.json", "vocab.json", "pytorch_model.bin"]
+  },
+  "align_zh_full": {
+    "repo": "wbbbbb/wav2vec2-large-chinese-zh-cn",
+    "revision": "b654b5f3df69725df32808de454a1b865c829e4c",
+    "license": "Apache-2.0",
+    "files": ["README.md", "config.json", "preprocessor_config.json", "special_tokens_map.json", "vocab.json", "model.safetensors"]
+  },
+  "surprisal_small": {
+    "repo": "Qwen/Qwen2.5-0.5B",
+    "revision": "060db6499f32faf8b98477b0a26969ef7d8b9987",
+    "license": "Apache-2.0",
+    "files": ["README.md", "LICENSE", "config.json", "model.safetensors", "tokenizer.json", "tokenizer_config.json", "merges.txt", "vocab.json"]
+  },
+  "surprisal_large": {
+    "repo": "Qwen/Qwen2.5-1.5B",
+    "revision": "8faed761d45a263340a0528343f099c05c9a4323",
+    "license": "Apache-2.0",
+    "files": ["README.md", "LICENSE", "config.json", "model.safetensors", "tokenizer.json", "tokenizer_config.json", "merges.txt", "vocab.json"]
+  }
+}

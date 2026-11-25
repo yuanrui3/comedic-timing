@@ -1,0 +1,6 @@
+# Preserve exact bytes: scientific source snapshots and provenance contain hashes.
+# Do not let Windows autocrlf change the contents of archived research artifacts.
+* -text
+
+# Generated vector paths contain harmless trailing spaces; preserve their hashes.
+*.svg -whitespace
