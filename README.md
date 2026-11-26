@@ -13,7 +13,9 @@ local artifacts or regeneration. GitHub displays the HTML source; local viewers
 are opened in a browser after their required media are available.
 
 See [publication scope and third-party materials](docs/publication.md) before
-reproducing an experiment. No project-wide reuse license has been selected.
+reproducing an experiment. The [MIT License](LICENSE) applies to original source
+code only. Reports, stimulus text, data, and third-party material retain their
+applicable existing terms.
 Historical reports contain detector results; participants should finish and lock
 their blind annotations before consulting those comparisons.
 

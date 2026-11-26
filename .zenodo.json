@@ -1,0 +1,19 @@
+{
+  "title": "Comedic Timing: Exploratory Research Snapshot",
+  "description": "<p>First archived snapshot of the exploratory comedic timing research pipeline. It includes source code, tests, experiment protocols, public-domain-derived stimulus text, and research reports. Audio, model weights, raw run records, participant responses, and private practice materials are not included. This is a research snapshot, not a completed benchmark.</p><p><strong>License scope:</strong> The MIT License applies only to original project source code identified in LICENSE. Research reports, stimulus text, datasets, figures, generated outputs, and third-party material are excluded from this grant and retain their applicable existing terms.</p>",
+  "version": "v0.1.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Chen, Yuanrui"
+    }
+  ],
+  "keywords": [
+    "comedic timing",
+    "Mandarin",
+    "speech analysis",
+    "experimental methods"
+  ]
+}

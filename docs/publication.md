@@ -52,9 +52,10 @@ Software checks do not establish accuracy of the scientific measurements.
 
 ## Rights and attribution
 
-No project-wide license has been selected for the original source, documentation
-or generated study artifacts. This release does not apply a new license to them
-or change upstream terms. Third-party materials retain their own notices.
+The [MIT License](../LICENSE) applies to the original project source code
+identified there. It does not apply to documentation, stimulus text, or
+generated study artifacts. Third-party materials and upstream code retain
+their existing terms and notices.
 
 The Mandarin texts are newly worded diagnostic adaptations of historical
 *笑林廣記* entries, with sources recorded in
